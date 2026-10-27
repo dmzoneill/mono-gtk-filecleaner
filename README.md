@@ -1,5 +1,9 @@
 # FileCleaner
 
+<p align="center">
+  <img src=".github/logo.png" alt="mono-gtk-filecleaner logo" width="128" />
+</p>
+
 A Mono GTK# tool that cleans up filenames in a folder.
 
 ## What it does
